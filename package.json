@@ -14,7 +14,7 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "passport-http": "^0.3.0",
     "save": "^2.4.0",
     "sqlite3": "^4.1.1"
